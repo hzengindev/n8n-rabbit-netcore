@@ -1,0 +1,160 @@
+﻿{
+  "systemUsers": [
+    {
+      "id": "f2652340-0272-47f9-8bfb-98be97a7d154",
+      "username": "admin",
+      "password": "admin",
+      "fullname": "Admin Admin",
+      "role": 1
+    },
+    {
+      "id": "ec729440-9526-4421-b0c1-cccfc822f12e",
+      "username": "member",
+      "password": "member",
+      "fullname": "Member Member",
+      "role": 2
+    }
+  ],
+  "developers": [
+    {
+      "username": "hzengindev",
+      "fullname": "hüseyin zengin",
+      "projects": [
+        {
+          "name": "saas project",
+          "languages": "CSharp, JavaScript"
+        },
+        {
+          "name": "crud project",
+          "languages": "CSharp, JavaScript, T-SQL"
+        }
+      ]
+    },
+    {
+      "username": "john_doe",
+      "fullname": "John Doe",
+      "projects": [
+        {
+          "name": "SaaS Project",
+          "languages": "C#, JavaScript"
+        },
+        {
+          "name": "CRUD Project",
+          "languages": "C#, JavaScript, T-SQL"
+        }
+      ]
+    },
+    {
+      "username": "jane_smith",
+      "fullname": "Jane Smith",
+      "projects": [
+        {
+          "name": "E-commerce App",
+          "languages": "Java, Spring Boot, React"
+        },
+        {
+          "name": "Blog Project",
+          "languages": "Node.js, MongoDB, Express"
+        }
+      ]
+    },
+    {
+      "username": "alex_white",
+      "fullname": "Alex White",
+      "projects": [
+        {
+          "name": "Finance Tracker",
+          "languages": "Python, Django, React"
+        },
+        {
+          "name": "Social Media Dashboard",
+          "languages": "JavaScript, Vue.js, Node.js"
+        }
+      ]
+    },
+    {
+      "username": "lily_jackson",
+      "fullname": "Lily Jackson",
+      "projects": [
+        {
+          "name": "Event Management App",
+          "languages": "Java, Spring Boot, Angular"
+        },
+        {
+          "name": "Travel Blog",
+          "languages": "Ruby on Rails, HTML, CSS"
+        }
+      ]
+    },
+    {
+      "username": "chris_miller",
+      "fullname": "Chris Miller",
+      "projects": [
+        {
+          "name": "E-learning Platform",
+          "languages": "PHP, Laravel, React"
+        },
+        {
+          "name": "Recipe Book",
+          "languages": "JavaScript, React Native, Firebase"
+        }
+      ]
+    },
+    {
+      "username": "emma_jones",
+      "fullname": "Emma Jones",
+      "projects": [
+        {
+          "name": "Online Store",
+          "languages": "JavaScript, React, Node.js"
+        },
+        {
+          "name": "Task Manager",
+          "languages": "Python, Flask, Vue.js"
+        }
+      ]
+    },
+    {
+      "username": "michael_smith",
+      "fullname": "Michael Smith",
+      "projects": [
+        {
+          "name": "Music Streaming App",
+          "languages": "Java, Spring Boot, Angular"
+        },
+        {
+          "name": "Portfolio Website",
+          "languages": "HTML, CSS, JavaScript"
+        }
+      ]
+    },
+    {
+      "username": "olivia_davis",
+      "fullname": "Olivia Davis",
+      "projects": [
+        {
+          "name": "Health Tracker",
+          "languages": "Swift, SwiftUI"
+        },
+        {
+          "name": "Recipe App",
+          "languages": "React Native, Firebase"
+        }
+      ]
+    },
+    {
+      "username": "ryan_miller",
+      "fullname": "Ryan Miller",
+      "projects": [
+        {
+          "name": "Chat Application",
+          "languages": "Node.js, Express, Socket.io"
+        },
+        {
+          "name": "Weather App",
+          "languages": "React, OpenWeatherMap API"
+        }
+      ]
+    }
+  ]
+}
