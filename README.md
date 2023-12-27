@@ -28,4 +28,4 @@
     5. Custom authorize attribute ile endpoint erişim durumu kontrol edilir.
     6. MediatR ile temel CQRS uygulaması içerir.
 
-![cover](https://raw.githubusercontent.com/hzengindev/n8n-rabbit-netcore/main/assets/8n8.png)
+![cover](https://github.com/hzengindev/n8n-rabbit-netcore/blob/main/assets/n8n.png?raw=true)
